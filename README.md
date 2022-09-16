@@ -1,1 +1,3 @@
 Richard Yang
+
+![image-20220916122541713](README.assets/image-20220916122541713.png)
