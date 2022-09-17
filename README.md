@@ -39,3 +39,7 @@ Screenshot showing each step outlined in the activity
 - Ran `git log` to show the rebase generated the desired commit history (commits from rebase come after the commits from develop)
 
 ![image-20220916222937412](README.assets/image-20220916222937412.png)
+
+Activity 6
+
+Link to the cloned Education Pathways repo can be found [here](https://github.com/RickyY1689/ECE444-F2022-EP)
