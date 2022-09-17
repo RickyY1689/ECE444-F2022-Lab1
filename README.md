@@ -43,3 +43,13 @@ Screenshot showing each step outlined in the activity
 Activity 6
 
 Link to the cloned Education Pathways repo can be found [here](https://github.com/RickyY1689/ECE444-F2022-EP)
+
+Actvitiy 7
+
+Results of the title change:
+
+<img src="README.assets/image-20220916230221454.png" alt="image-20220916230221454" style="zoom: 25%;" />
+
+Git commands leading up to and including the rebase:
+
+![image-20220916230652155](README.assets/image-20220916230652155.png)
