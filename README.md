@@ -25,3 +25,17 @@ Commit on Chan Hyuk Yang's PR - [Link](https://github.com/ChanHyukYang/ECE444-F2
 Pulling Chan's Changes into Remote
 
 ![image-20220916163843177](README.assets/image-20220916163843177.png)
+
+
+
+Activity 5
+
+Screenshot showing each step outlined in the activity
+
+- Checkout develop
+- New branch, rebase, off of develop and created two commits 
+- Switched back to develop and created two commits
+- Rebased the rebase branch onto develop
+- Ran `git log` to show the rebase generated the desired commit history (commits from rebase come after the commits from develop)
+
+![image-20220916222937412](README.assets/image-20220916222937412.png)
