@@ -48,8 +48,18 @@ Actvitiy 7
 
 Results of the title change:
 
-<img src="README.assets/image-20220916230221454.png" alt="image-20220916230221454" style="zoom: 25%;" />
+<img src="README.assets/image-20220916232135872.png" alt="image-20220916232135872" style="zoom:33%;" />
 
 Git commands leading up to and including the rebase:
 
 ![image-20220916230652155](README.assets/image-20220916230652155.png)
+
+Activity 8
+
+Screenshot of the updated website
+
+![image-20220916232058235](README.assets/image-20220916232058235.png)
+
+Git commands leading up to and including the rebase
+
+![image-20220916232036146](README.assets/image-20220916232036146.png)
