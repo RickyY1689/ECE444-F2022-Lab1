@@ -32,13 +32,21 @@ Activity 5
 
 Screenshot showing each step outlined in the activity
 
-- Checkout develop
-- New branch, rebase, off of develop and created two commits 
-- Switched back to develop and created two commits
-- Rebased the rebase branch onto develop
-- Ran `git log` to show the rebase generated the desired commit history (commits from rebase come after the commits from develop)
+- Checkout `develop` & create new branch, `rebase`, off of `develop` and created two commits 
 
-![image-20220916222937412](README.assets/image-20220916222937412.png)
+<img src="README.assets/image-20220918231717916.png" alt="image-20220918231717916" style="zoom:50%;" />
+
+- Switched back to `develop` and created two commits
+
+<img src="README.assets/image-20220918231746333.png" alt="image-20220918231746333" style="zoom:50%;" />
+
+- Rebased the `rebase` branch onto `develop`
+
+<img src="README.assets/image-20220918232000993.png" alt="image-20220918232000993" style="zoom:50%;" />
+
+- Check back into the `develop` branch and merge `rebase` into `develop` and run `git log` to verify the desired order of commits
+
+<img src="README.assets/image-20220918232152596.png" alt="image-20220918232152596" style="zoom:50%;" />
 
 Activity 6
 
